@@ -2,7 +2,6 @@
 
 **Haikim** is a web-based platform that provides online legal consultation services.  
 Inspired by healthcare apps like *Halodoc*, Haikim makes it easier for people to access reliable legal information and connect with professional lawyers quickly, securely, and conveniently.
-
 ---
 
 ## 🚀 Key Features
